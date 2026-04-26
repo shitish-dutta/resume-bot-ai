@@ -1,0 +1,16 @@
+Name: Sayak Nath
+Current Status: 6th-semester Computer Science and Engineering student at Asansol Engineering College, affiliated with Maulana Abul Kalam Azad University of Technology.
+
+Technical Skills:
+- Languages & Frameworks: Python, Django, React.
+- Core Competencies: Full-stack web development, RESTful APIs, Role-based access control.
+- Problem Solving: Active in competitive programming and technical interview prep using LeetCode.
+
+Key Projects:
+1. Student Tracker System: 
+   - Description: Designed a multi-panel system featuring admin, student, and teacher dashboards.
+   - Tech Stack: Django.
+   - Features: Secure registration, login, and class notification functionalities.
+
+2. Custom Web Themes & UI Design:
+   - Description: Created custom website themes utilizing "Glassmorphism" aesthetics. Highly interested in digital aesthetics and UI customization.
